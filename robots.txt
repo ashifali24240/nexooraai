@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://nexooraai.ashifali.workers.dev/sitemap.xml
